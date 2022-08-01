@@ -1,2 +1,1 @@
-console.log("hello");
-console.log("my first repository");
+console.log("i dont love git");
